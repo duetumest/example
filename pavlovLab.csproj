@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <Version>0.0.3-rc.1</Version>
     <Authors>Semka, Sherstoboeva</Authors>
-    <Company>duetumanet</Company>
+    <Company>duetumest</Company>
     <Product>Lab </Product>
     <PackageId>MyApp</PackageId>
     <FileVersion>0.0.1</FileVersion>
