@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <Authors>Semka, Sherstoboeva</Authors>
-    <Company>duetumest</Company>
+    <Company>duetumest2.0</Company>
     <Product>Lab </Product>
     <PackageId>MyApp</PackageId>
   </PropertyGroup>

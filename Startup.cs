@@ -30,6 +30,7 @@ namespace pavlovLab
         {
            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
            ConfigureLogger();
+           services.AddScoped<StorageService, StorageService>();
 
         }
 
